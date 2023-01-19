@@ -3,6 +3,8 @@ web/app/plugins/*
 !web/app/plugins/.gitkeep
 web/app/mu-plugins/*/
 web/app/themes/twentytwentythree/
+web/app/themes/understrap
+web/app/themes/tack-understrap-child
 web/app/upgrade
 web/app/uploads/*
 !web/app/uploads/.gitkeep
