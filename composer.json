@@ -1,28 +1,19 @@
 {
-  "name": "roots/bedrock",
+  "name": "tackdigital/bedrock-understrap",
   "type": "project",
   "license": "MIT",
-  "description": "WordPress boilerplate with Composer, easier configuration, and an improved folder structure",
-  "homepage": "https://roots.io/bedrock/",
+  "description": "WordPress boilerplate with Composer and understrap integration. Based on roots/bedrock and understrap/understrap",
+  "homepage": "https://www.tack-design.de",
   "authors": [
     {
-      "name": "Scott Walkinshaw",
-      "email": "scott.walkinshaw@gmail.com",
-      "homepage": "https://github.com/swalkinshaw"
-    },
-    {
-      "name": "Ben Word",
-      "email": "ben@benword.com",
-      "homepage": "https://github.com/retlehs"
+      "name": "Roman Sörensen",
+      "email": "soerensen@tack-design.de",
+      "homepage": "https://github.com/roman-soerensen"
     }
   ],
   "keywords": [
-    "bedrock", "composer", "roots", "wordpress", "wp", "wp-config"
+    "bedrock", "composer", "understrap", "wordpress", "wp", "wp-config"
   ],
-  "support": {
-    "issues": "https://github.com/roots/bedrock/issues",
-    "forum": "https://discourse.roots.io/category/bedrock"
-  },
   "repositories": [
     {
       "type": "composer",
