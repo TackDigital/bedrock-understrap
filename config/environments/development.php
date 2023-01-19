@@ -18,3 +18,11 @@ ini_set('display_errors', '1');
 
 // Enable plugin and theme updates and installation from the admin
 // Config::define('DISALLOW_FILE_MODS', false);
+
+## more ram and less more security
+Config::define('WP_POST_REVISIONS', false);
+Config::define('WP_MEMORY_LIMIT', '256M');
+Config::define('WP_MAX_MEMORY_LIMIT', '512M');
+
+## set the environment type (https://make.wordpress.org/core/2020/08/27/wordpress-environment-types/)
+Config::define('WP_ENVIRONMENT_TYPE', 'local');
